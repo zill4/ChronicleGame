@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Going to need LFS for this
+*.uasset
+*.umap
+
 # Compiled Object files
 *.slo
 *.lo
